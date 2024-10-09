@@ -1,4 +1,4 @@
 # VG_trout
 ### Recent Activities
-<!--START_SELECTION:activity-->
-<!--END_SELECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
