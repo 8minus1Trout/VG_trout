@@ -1,14 +1,14 @@
 # VG_trout
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/c423304543579ca4223d6b2fc2663a78ae90293d)
-2. ➕ Created a new branch [`7-作為一個排球比賽的主辦方我需要一位助理方便我指派任務`](https://github.com/8minus1Trout/VG_trout/tree/7-作為一個排球比賽的主辦方我需要一位助理方便我指派任務) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-3. 🆕 Opened an issue [#7](https://github.com/8minus1Trout/VG_trout/issues/7) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-4. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/f66a0ee18fd0a175a813eea6f0f769aa94f86148)
-5. ➕ Created a new branch [`6-進階接球練習`](https://github.com/8minus1Trout/VG_trout/tree/6-進階接球練習) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-6. 🔄 Reopened an issue [#4](https://github.com/8minus1Trout/VG_trout/issues/4) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-7. ❌ Closed an issue [#4](https://github.com/8minus1Trout/VG_trout/issues/4) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-8. 🆕 Opened an issue [#6](https://github.com/8minus1Trout/VG_trout/issues/6) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-9. 🆕 Opened an issue [#5](https://github.com/8minus1Trout/VG_trout/issues/5) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
-10. 🆕 Opened an issue [#4](https://github.com/8minus1Trout/VG_trout/issues/4) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
+1. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/2843526f6ff8bb1cb5fdc69a06ced426db1fda59)
+2. ❌ Closed an issue [#7](https://github.com/8minus1Trout/VG_trout/issues/7) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
+3. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/c423304543579ca4223d6b2fc2663a78ae90293d)
+4. 🔀 Merged [PR #8](https://github.com/8minus1Trout/VG_trout/pull/8) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
+5. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/964b6020c5c890fe43770e998ac99d7976950fad)
+6. 📥 Opened [PR #8](https://github.com/8minus1Trout/VG_trout/pull/8) in [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout)
+7. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/d69bd5423af9b95559bd89c7097b2646bf1726f8)
+8. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/02ad887199fe7b85a3e3526c60b8be6f31ad7ee2)
+9. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/964b6020c5c890fe43770e998ac99d7976950fad)
+10. 📝 Committed to [8minus1Trout/VG_trout](https://github.com/8minus1Trout/VG_trout/commit/c423304543579ca4223d6b2fc2663a78ae90293d)
 <!--END_SECTION:activity-->
