@@ -1,8 +1,8 @@
 name: Update GitHub activity
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
+  # schedule:
+  #   - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+        uses: 8minus1Trout/activity-log@latest
         with:
           GITHUB_USERNAME: "8minus1Trout"
           GITHUB_TOKEN: ${{ secrets.trout09008 }}
